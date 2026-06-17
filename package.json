@@ -1,0 +1,25 @@
+{
+  "name": "streamtv-live",
+  "version": "1.0.0",
+  "description": "Premium Responsive IPTV Web Player with Favorites, Recent list, and Serverless Proxy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "iptv",
+    "player",
+    "hls",
+    "mpegts",
+    "serverless",
+    "proxy"
+  ],
+  "author": "StreamTV Live",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

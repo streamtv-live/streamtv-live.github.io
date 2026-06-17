@@ -1,0 +1,10 @@
+{
+  "playlist": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JhenVhaGFtbWFkNTUvbGl2ZS10di1odWIvcmVmcy9oZWFkcy9tYWluL3R2Lm0zdQ==",
+  "appName": "StreamTV Live",
+  "defaultProxy": "",
+  "features": {
+    "favorites": true,
+    "recentlyWatched": true,
+    "pwa": true
+  }
+}
